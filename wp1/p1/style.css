@@ -1,0 +1,30 @@
+#tulisan-eksternal {
+    color: white;
+
+}
+.box-eksternal {
+    background: green;
+    padding: 10px;
+    margin: 5px;
+}
+body{
+    background: url(1016625.jpg);
+    color: #fff;
+    position: relative;
+    
+}
+.tulisan-satu {
+    color: red;
+    font-family: sans-serif;
+    font-style: normal;
+}
+.tulisan-dua {
+    color: green;
+    font-size: 24pt;
+    font-style: italic;
+}
+.tulisan-tiga {
+    color: red;
+    font-weight: bold;
+    font-style: oblique;
+}
